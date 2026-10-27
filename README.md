@@ -1,6 +1,8 @@
-# Simple Interest Calculator
+# github-final-project
 
-This project contains a Bash script that calculates simple interest based on user input.
+## Simple Interest Calculator
+
+This project contains a Bash script (`simple-interest.sh`) that calculates simple interest based on user input.
 
 ## Details
 
